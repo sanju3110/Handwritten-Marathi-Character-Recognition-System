@@ -31,3 +31,8 @@
 - CNN Model: Trained for accurate recognition of handwritten Marathi characters
 - Image Processing: Techniques to enhance recognition accuracy
 - Dataset: Comprehensive dataset of handwritten Marathi characters for training and evaluation
+
+# Sample- Project
+# Output
+![Screenshot 2024-08-11 114917](https://github.com/user-attachments/assets/2df29418-a1de-4314-b6f2-09b52401d33b)
+![Screenshot 2024-08-11 114935](https://github.com/user-attachments/assets/147e0c19-ec77-4028-8773-157d37ed6a1f)
